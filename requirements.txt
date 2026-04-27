@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+opencv-python-headless
+fpdf
+requests
+Pillow
+scipy
+matplotlib
+folium
+streamlit-folium
+openpyxl

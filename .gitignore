@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Bazy danych i dane lokalne
+data/
+*.db
+*.sqlite3
+
+# Raporty i eksporty
+reports/
+*.pdf
+*.xlsx
+*.log
